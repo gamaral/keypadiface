@@ -1,0 +1,7 @@
+*.dwo
+*.o
+.env
+resources/
+libcmsis.la
+main.elf
+main.map
